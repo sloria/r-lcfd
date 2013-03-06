@@ -2,7 +2,7 @@
 
 An adaptation of Josh Reich's [LCFR workflow](http://stackoverflow.com/a/1434424/1157536).
 
-Includes a `main.r` file which just runs the other files in sequence.
+Includes a `main.r` file which just runs the other files in sequence. You can also run `tests.r`, which runs the whole project along with your tests.
 
 NOTE: The `testthat` package is required to run the tests.
 

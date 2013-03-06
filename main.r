@@ -1,5 +1,5 @@
 # Runs the entire project
-source('01-load.R')
-source('02-munge.R')
-source('03-functions.R')
-source('04-do.R')
+source('00-functions.r')
+source('01-load.r')
+source('02-munge.r')
+source('03-explore.r')
